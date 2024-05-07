@@ -76,6 +76,6 @@ There is only one interface</h4>
 <p>Main Page</p>
 <img src="user_guidance/us1.png" alt=""/>
 <p>Search locations and get weather details for the rest of this week</p>
-<img src="user-guidance/search.png" alt=""/>
-<img src="user-guidance/tampa.png" alt=""/>
-<img src="user-guidance/delhi.png" alt=""/>
+<img src="user_guidance/search.png" alt=""/>
+<img src="user_guidance/tampa.png" alt=""/>
+<img src="user_guidance/delhi.png" alt=""/>
