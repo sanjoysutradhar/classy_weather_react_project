@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+<!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -67,4 +67,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->
+
+<h4>This is implemented by fully using React FrameWork</h4>
+<h4>This is weather prediction website. Here use free weather api. 
+There is only one interface</h4>
+
+<p>Main Page</p>
+<img src="user_guidance/us1.png" alt=""/>
+<p>Search locations and get weather details for the rest of this week</p>
+<img src="user-guidance/search.png" alt=""/>
+<img src="user-guidance/tampa.png" alt=""/>
+<img src="user-guidance/delhi.png" alt=""/>
